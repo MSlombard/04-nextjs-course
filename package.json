@@ -16,6 +16,7 @@
     "styled-components": "^5.2.3"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "MSlombard <mauricio.lombard@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/MSlombard/04-nextjs-course.git"
 }
